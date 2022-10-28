@@ -31,7 +31,7 @@ class FleetController extends BaseModuleController
             'thumb' => true, // image column
             'variant' => [
                 'role' => 'cover',
-                'crop' => 'desktop ',
+                'crop' => 'default ',
             ],
         ],
         'title' => [

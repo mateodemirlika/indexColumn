@@ -21,11 +21,11 @@ class Fleet extends Model implements Sortable
         'description',
         'position',
     ];
-    
+
     public $slugAttributes = [
         'title',
     ];
-    
+
     public $mediasParams = [
         'cover' => [
             'default' => [

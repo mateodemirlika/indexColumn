@@ -19,7 +19,7 @@ return [
                 'activity' => true, // show activities on this module in actities list
                 'draft' => true, // show drafts of this module for current user
                 'search' => true, // show results for this module in global search
-                'routePrefix' => 'fleets',
+                // 'routePrefix' => 'fleets',
             ],
 
         ],
